@@ -1,0 +1,14 @@
+/* card-product-top button */
+.btn-green {
+  width: 100%;
+  background-color: rgb(143, 188, 143);
+  border-radius: 5px;
+  color: white;
+  font-weight: lighter;
+  text-align: center;
+  padding: 8px 24px;
+}
+
+.btn-green:hover {
+  background-color: rgb(178, 226, 178);
+}
